@@ -1,0 +1,2 @@
+# Weather-App-Using-REST-API
+curl_setopt-> Set an option for a cURL transfer CURLOPT_HEADER-> Pass headers to the data stream CURLOPT_RETURNTRANSFER-> If you set CURLOPT_RETURNTRANSFER to true or 1 then the return value from curl_exec will be the actual result from the successful operation CURLOPT_URL-> Provide the URL to use in the request CURLOPT_FOLLOWLOCATION-> Follow HTTP 3xx redirects CURLOPT_VERBOSE-> Set verbose mode on/off CURLOPT_SSL_VERIFYPEER-> Verify the peer's SSL certificate
